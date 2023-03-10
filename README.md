@@ -7,4 +7,5 @@ It includes all the basic tools listed below:
 4. Bold, Italics and Underline Text.
 5. Find and Replace.
 6. Count number of characters/words in the highlighted text or in the whole document if nothing is highlighted.
+
 There is a sketchpad as well with 5 shapes that can be resized from each corner. 
